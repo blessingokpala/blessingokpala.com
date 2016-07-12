@@ -18,5 +18,5 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin develop
+git push origin master
 git subtree push --prefix=_site git@github.com:blessingokpala/blessingokpala.com.git gh-pages

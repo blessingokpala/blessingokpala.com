@@ -6,7 +6,6 @@ comments: true
 tags:
 - supply-chain
 ---
-a-concise-overview-of-supply-chain
 The present day market is marked by several uncertainties and unrests that appear to remain ever increasing due to certain prevailing reasons. Moreover, the ever dynamic customer’s demand in virtually all the industrial sectors seems to be increasingly elusive more than ever recorded in the time past (Lockamy & McCormack 2004).
 
 Having established the above fact, a pressing question is; why are there uncertainties and unrest in the present day market? Could this be as a result of the globalisation of markets, or as a result of the growing liberalisation of economies? Apparently, these economic conditions to a larger extent as supported by  (Nenni et., al. 2013), have culminated in the growing competitiveness and volatility in the modern market hence, have  heightened the need for organisations to engage in supply chain process evaluations and advancement through efficient and effective supply chain processes for superior business performance. This supports Harland (1996) research that agrees that supply chain incorporates many angles, which requires lucid concepts for proper understanding.
@@ -51,21 +50,38 @@ Companies ought to be proactively responsive to any changes in the market by cap
 Strategic planning is a strategy that considers the long-term plan of a company in mapping out acceptable operational and business policies and procedures. Fang Du et., al. (2009) support that information Technology plays an important role in the supply chain network as global competition has pushed companies to elect extended Enterprise in the supply chain framework. Such ERP systems include; Oracle, SAP tools which to a larger extent has contributed immensely in responsive supply chain and must be put in place for communication improvement and continuous flow of goods and products along the value chain (Gunasekaran et al 2006). Christopher & Lee (2004), suggest that participating supply chain parties should adopt an improved end-to-end visibility which boosts confidence in accordance to the quality of supply chain information for competitiveness.
 
 
-REFERENCES
+**REFERENCES**
+
 Ahmad, S. & Ullah, A. (2013) Driving Forces of Collaboration in Supply Chain: A Review, Journal of Contemporary Research in Business, Vol. 5, No. 7, pp. 40 -42.
+
 Christopher M. & Lee H. (2004) Mitigating Supply Chain Risk Through Improved Confidence, International Journal of Physical Distribution & Logistics Management, 2004 pp4-8.
+
 Christopher, M.G. & Towill, D.R. (2002) An Integrated Model for the Design of Agile Supply Chains, International Journal of Physical Distribution & Logistics, Vol 31, No 4, pp 262-264.
+
 Cousins, P. D., Lawson, B. and Squire, B. (2008) Performance measurement in strategic buyer-supplier relationships: the mediating role of socialisation mechanisms, International Journal of Operations and Production Management, 28 (3), p242.
+
 Day, G.S. (1994), The capabilities of market-driven organizations”, Journal of Marketing, pp. 37-52.
+
 Gereffi G. and Lee J. (2012)  Why the World Suddenly Cares about Global Supply Chains, Journal of Supply Chain Management, Vol. 48, no 3, pp 24-25.
+
 Gunasekaran, A., Lai, K., and Cheng, T., C., E. (2006)  Responsive Supply Chain: A Competitive Strategy in a Networked Economy, The International Journal of Management Science, Elsevier Ltd, pp550-556.
+
 Fang Du, X., Leung, C. H.S., Zhang, J.L. & Lai K.K. (2009) Procurement of Agricultural Products Using the CPFR Approach: An International Journal Supply Chain Management, Vol. 14 Issue 4, pp.253-258.
+
 Harland, C., M. (1996) Supply Chain Management: Relationships, Chains and Networks, British Journal of  Management, vol. 7, Special Issue.
+
 Krajewski, L. (2002) Reflections on Operations Management Research, Journal of Operations and Technology,Organisation Science, Vol.3, pp. 381-396.
+
 Lockamy, A. & McCormack, K. (2004) The Development of a Supply Chain Management Process Maturity Model Using the Concepts of Business Process Orientation, An International Journal of Supply Chain Management, Vol. 9, No. 4, P. 272, 276.
+
 Madhani, P. M. (2013) Making a Conceptual Framework for Supply Chain Management and Marketing Integration,  Journal of Management, Vol. 11, No.3, pp55-60.
+
 Mentzer, J.M., Min, S. and Zacharia, Z.G. (2000), The nature of inter-firm partnering in supply Chain management,Journal of Retailing, Vol. 76 No. 4, pp. 549-551.
+
 Min, H. & Yu, W. (2004) Collaborative Planning, Forecasting and Replenishment: Demand Planning in Supply Chain Management, The Fourth International Conference on Electronic Business, pp58-60.
+
 Nagurney, Anna (2006). Supply Chain Network Economics: Dynamics of Prices, Flows, and Profits. Cheltenham, UK: Edward Elgar.
+
 Nenni, M. E., Giustiniano, L. & Pirolo, L. (2013) Demand Forecasting in the Fashion Industry: A Review, International Journal of Engineering Business Management, Special Issue on Innovations in Fashion Industry, pp1-3.
+
 Simatupang, T. M. & Sridharan, R. (2006) An integrative framework for supply chain collaboration, International Journal of Logistics and Management, Vol. 16, No. 2, p.258.

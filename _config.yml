@@ -8,10 +8,10 @@
 # Site settings
 title: Blessing C. Okpala
 email: me [@] blessingokpala.com
-description: My Personal thoughts .
+# description: My Personal thoughts .
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blessingokpala.com" # the base hostname & protocol for your site
-github_username:  blessingokpala
+# github_username:  blessingokpala
 
 # Build settings
 markdown: kramdown

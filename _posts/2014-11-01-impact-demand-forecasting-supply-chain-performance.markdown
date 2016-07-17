@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "THE IMPACT OF DEMAND FORECASTING ON SUPPLY CHAIN PERFORMANCE"
+date:   2014-11-01 23:30:00 +0800
+comments: true
+tags:
+ - Organisational performance
+ - sales forecasting
+ - supply chain
+ - supply chain management
+ - United Kingdom retailing industry
+---
+![THE IMPACT OF DEMAND FORECASTING ON SUPPLY CHAIN PERFORMANCE](/img/US_Navy_041031-N-2805L-243_A_Sailor_keeps_a_lookout_using_binoculars_on_the_Signal_Bridge_aboard_the_Nimitz-class_aircraft_carrier_USS_Harry_S._Truman_CVN_75-780x300.jpg)
+
+Supply chain according to Harland (1996), comprises of the various activities involved in the conversion of goods from the raw state to the final state for consumer usage and consumption. This process of goods conversion as supported by McCormack and Kasper (2002), involves planning, design, and regulation of the flow of material, information and finance along the supply chain to satisfy customer’s needs. However, the globalisation of markets and liberalisation of economies has culminated in the growing competitiveness and volatility in the present day market. This has intensified the need for companies to engage in supply chain process evaluations and improvements through demand forecast accuracy for efficient business performance (Nenni et., al. 2013).
+
+Demand forecasting is essential for maximum customer satisfaction in supply chain processes (Giannakis and Croom 2004). It is a process of knowing what quantities of products are needed at what place and time. Many techniques of demand forecasting are in use today, however the exponential smoothing and moving average are the two popular time series methods of forecasting (Ibrahim and Dauda 2012).
+
+In modern day businesses, firms have assembled structures for sourcing of raw materials, conversion of materials into finished products or creating services, storing and evenly distribution of same products to customers and consumers (Krajewski, 2002). Organisation’s supply chain is liable for its achievement or losses that has resulted in the need for a proper regulation and coordination amongst supply chain associates (Lockamy, A. & McCormack, K. 2004). Over the past years, in an attempt to advance the long-term efficacy of the supply chain, Madhani (2013), agrees that many organisations have collaborated with other supply chain members for efficiency. This concept has resulted in achieving maximum customer satisfaction and company’s profitability.
+
+Veiga et., al. (2010) agree that the accuracy of a company’s demand forecast has a direct impact on the services rendered to consumers, the actual cost of the supply chain and the level of safety stock units (SKU) thus for a company to remain successful, necessitates a high level of accuracy during forecasting which revolves around products, time, geographies, medium and characteristics. Forecasting is a key management performance tool for the fulfilment of customer expectations on delivery, however the success depends on demand information created by inventory policies of the downstream phase in the supply chain process (Reiner and Fichtinger, 2009). Nonetheless, information varies across the supply network based on the needs of businesses for timely replenishment of products and there is need to explore ways to modify, renovate and restructure the complete network so as to accurately utilise available information to forecast products demand for maximum customer’s satisfaction.
+
+While supply chain management is widely adopted by retailing companies, the aspect of accurate demand forecast is still questionable and less understood (McCormack and Kasper 2002). Accurate demand forecasting is problematical in the sense that there are still likelihood of tension and downturn to firms who struggle to remain competitively positioned. They face challenges of converting their operations from a static to a dynamic platform within interconnected roles across enterprise supply chain and this undertaking is very complex because supply chain management encompasses managing of many frame-work, establishing strategically inclined capabilities not only within the company itself, but also among other firms that are members of their value-adding networks (Lockamy, A. & McCormack, K. 2004).
+
+Consumer’s demand characterised by both growth and seasonal influences present a very difficult forecasting problem due to the fluctuating demand patterns (Fildes and Hastings (1994). There are comprehensive forecasting techniques available for predicting the future demand for higher supply chain performance but researchers have proved that some of these techniques pose various problems during forecasting (Benkachcha et., al. 2013). All forecasts depend on previous sales history hence stringent and rigorous routine monitoring and maintenance is required to ensure that forecasts are authentic.
+
+According to Madhani (2013), there is a significant relationship between effective supply chain management and efficient customer response, a management idea that deals on how to collaborate in retailing industries with the sole aim of ensuring maximum customer’s satisfaction. Industries in the supply chain such as suppliers, intermediaries, logistics and transportation providers must communicate and interact properly to ensure meeting up with customer’s expectations effectively (Simatupang & Sridharan 2006).
+
+Companies become dependent on each other and must collaborate in supply chain network to coordinate their activities. Mentzer et al., (2000) agree that limited attention has been rendered towards obtaining the features that represent different areas of collaboration. This according to Min & Yu (2004), highlights why it is important to understand the aspect of collaboration which if neglected can lead to distortion in information sharing and inappropriate replenishment of products that lead to inefficiencies and low supply chain dynamics (Ahmad & Ullah 2013).
+
+Ismail and Abu (2013) found out that making accurate estimates is very vital to both forecasting and all productive system as they form the basis of planning and estimating the quantity of goods customers will consume however, the growing and changing customer’s needs appear to make it difficult to accurately predict demand. A key concern is whether customer’s needs are accurately predicted, sourced and delivered at the right time. However, it is important to highlight that for a company to remain competitively superior, requires identifying the right market signals through demand sensing capabilities so as to provide steady supply of needed products at the right place and at the right time thereby creating an effective response (Veiga et., al. 2010).
+
+According to Lunenburg (2012) demand forecast is the background of all planning as it gives estimates of future expectancies. Over the past years, different forecasting techniques have been established and applied to the practical problem of forecasting with varying level of success (Benkachcha et., al. 2013). Most companies admit that they have a comprehensive historical demand database which they use for forecasting, but the fact still remains that these records display sales histories and not demand histories (Veiga et., al. 2010).
+
+Apparently, to forecast for future demand, one ought to reinforce the sales records with predictions of demand lost. The concern thus is, what quantity of products would have been sold when a company is out of stock? Researchers have proved that forecasting of future demand will identify the quantities of products to be sourced, procured, processed and shipped (Matthew et., al. 2013). To remain competitively advantageous, most companies no longer wait for customers to demand for products before they react, hence they tend to predict and plan for future demand and act promptly as the customer’s needs and orders arises.
+
+Demand forecast is very vital since the process involved in transforming raw materials to finished goods and shipping them from suppliers to end users can be time consuming hence the need for efficient planning (Lunenburg 2012). Accurate demand forecasting is increasingly proving difficult to companies due to noisy data, new products, non-availability of history data, shorter product life cycles, changing seasonal patterns, varying customer demand and increased product variety (Veiga et., al. 2010).
+
+These issues have rendered the demand pattern unpredictable, but forecasting is highly important as it boosts the competitive advantage of a firm and encourages savings as a result of inventory investment for decision making and planning, but Chase (1997), suggested that customer’s demand can be estimated through a set of causal factors such as commodity price, seasonality, advertising, costs and sales promotion. Patil et., al. (2012) supported this statement by identifying that many factors such as time, resources, advertising, promotions, unusual weather conditions, price changes, events, price, vacations, public holidays, input and output components ought to be considered as they can positively or negatively affect the accuracy of a forecast.
+
+REFERENCES
+Ahmad, S. & Ullah, A. (2013) Driving Forces of Collaboration in Supply Chain: A Review, Journal of Contemporary Research in Business, Vol. 5, No. 7, pp. 40-42.
+
+Benkachcha, S., Benhra, J. & El Hassani.H. (2013) Causal Method and Time Series Forecasting model based on Artificial Neural Network, International Journal of Computer Applications, Vol. 75, No.7, p. 37.
+
+Chase, C. W. Jr., (1997), Integrating Market Response Models in Sales Forecasting, Journal of Business Forecasting. Vol. 2, p. 27.
+
+Fildes, R. and Hastings, R. (1994) The Organisation and Improvement of Market Forecasting, Journal of the Operational Research Society, Vol. 45, No.1 pp.2-12.
+
+Giannakis, M. and Croom, S. R. (2004), Toward the Development of a Supply Chain Management Paradigm: A Conceptual Framework, Journal of Supply Chain Management, Vol.40, No.2, pp25-30.
+
+Harland, C., M. (1996) Supply Chain Management: Relationships, Chains and Networks, British Journal of Management, vol. 7, Special Issue.
+
+Ibrahim L. K and Dauda U. (2012) Modeling Monthly Rainfall Time Series Using ETS Space and SARIMA Models, International Journal of Physics and Mathematical Research, Vol. 1, No. 1, pp. 11-13.
+
+Ismail, Z. and Abu, N. (2013) A Study On New Product Demand Forecasting Based On Bass Diffusion Model, International Journal of Mathematics and Statistics, Vol. 9, No.2. pp.84-85.
+
+Krajewski, L. (2002) Reflections on Operations Management Research, Journal of Operations and Technology, Organisation Science, Vol.3, pp. 381-396.
+
+Lockamy, A. & McCormack, K. (2004) The Development of a Supply Chain Management Process Maturity Model Using the Concepts of Business Process Orientation, An International Journal of Supply Chain Management, Vol. 9, No. 4, P. 272, 276.
+
+Lunenburg, F. C. (2012) Human Resource Planning: Forecasting Demand and Supply, International Journal of Business Management Administration Vol. 15, No.1, pp4.
+
+Madhani, P. M. (2013) Making a Conceptual Framework for Supply Chain Management and Marketing Integration, Journal of Management, Vol. 11, No.3, pp55-60.
+
+Mathew, A., Somasekaran E.M & Jenson J. E. (2013) Demand Forecasting For Economic Order Quantity in Inventory Management, International Journal of Scientific and Research Publications, Vol. 3, Issue 10, p.1.
+
+McCormack, K. and Kasper, K. (2002), The Extended Supply Chain; A Statistical Study, An International Journal, Emerald Publisher, Vol. 9, No. 2. pp. 133-135.
+
+Mentzer, J.M., Min, S. and Zacharia, Z.G. (2000), The nature of inter-firm partnering in supply Chain management, Journal of Retailing, Vol. 76 No. 4, pp. 549-551.
+
+Min, H. & Yu, W. (2004) Collaborative Planning, Forecasting and Replenishment: Demand Planning in Supply Chain Management, The Fourth International Conference on Electronic Business, pp58-60.
+
+Nenni, M. E., Giustiniano, L. & Pirolo, L. (2013) Demand Forecasting in the Fashion Industry: A Review, International Journal of Engineering Business Management, Special Issue on Innovations in Fashion Industry, pp1-3.
+
+Patil, D.P., Shrotri, A.P., and Dandekar, A.R. (2012) Management of Uncertainty In Supply Chain, International Journal of Emerging Technology and
+Advanced Engineering, Vol. 2, Issue 5, pp. 303-305.
+
+Reiner, G., and Fichtinger, J. (2009) Demand Forecasting for Supply Processes in Consideration of Pricing and Market Information- International Journal of
+production Economics, vol. 118, Issue 1, P1.
+
+Simatupang, T. M. & Sridharan, R. (2006) An integrative framework for supply chain collaboration, International Journal of Logistics and Management, Vol. 16, No. 2, p.258.
+
+Veiga, C. R. P. D., Veiga, C. P. D., Duclós, L. C. (2010) The Accuracy of Demand Forecast Models as a Critical Factor in the Financial Performance of the Food Industry, Future Studies Research Journal, Vol. 2, Nos. 2, pp.84-88.

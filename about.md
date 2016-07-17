@@ -5,9 +5,14 @@ permalink: /about/
 ---
 
 Hi,
-My name is Blessing, I am a PhD candidate at the Cardiff Metropolitan University.  My research is focused on understanding the demand patterns and dimensions in supply chain using UK based companies as case studies. Due to the varying customer demands and the volatility in the market, retail stakeholders are faced with the difficulty of determining customer’s needs at any particular point in time for maximum satisfaction and of course, profit!
+My name is Blessing, I am a PhD candidate at the Cardiff Metropolitan University.  My research is focused on understanding the demand patterns and dimensions in supply chain using UK based companies as case studies.
+![Blessing Okpala](/img/me.jpg)
+Due to the varying customer demands and the volatility in the market,
+retail stakeholders are faced with the difficulty of determining customer’s
+needs at any particular point in time for maximum satisfaction and
+of course, profit!
 
-To a larger extent, the economic state has intensified the need for companies to indulge in supply chain process evaluation and improvements through efficient and effective planning for superior business performance. I will be analysing some current practices, key indicators, market activities, institutional arrangments to identify pathways to change, for accurate demand forecasts in supply chain. 
+To a larger extent, the economic state has intensified the need for companies to indulge in supply chain process evaluation and improvements through efficient and effective planning for superior business performance. I will be analysing some current practices, key indicators, market activities, institutional arrangments to identify pathways to change, for accurate demand forecasts in supply chain.
 
 I hold a Master’s degree in Business Administration (MBA) and a B.Sc degree in Parasitology & Entomology. My personality, education and experience has enabled me to take on the challenges that life can present.
 

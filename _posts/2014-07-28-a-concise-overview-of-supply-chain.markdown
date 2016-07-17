@@ -4,8 +4,16 @@ title:  "A CONCISE OVERVIEW OF SUPPLY CHAIN"
 date:   2014-07-28 22:36:09 +0800
 comments: true
 tags:
-- supply-chain
+ - consumers
+ - demand
+ - procurement
+ - suppliers
+ - supply
+ - supply chain
+ - supply chain management
 ---
+![A CONCISE OVERVIEW OF SUPPLY CHAIN](/img/Broad_chain_closeup-780x300.jpg)
+
 The present day market is marked by several uncertainties and unrests that appear to remain ever increasing due to certain prevailing reasons. Moreover, the ever dynamic customer’s demand in virtually all the industrial sectors seems to be increasingly elusive more than ever recorded in the time past (Lockamy & McCormack 2004).
 
 Having established the above fact, a pressing question is; why are there uncertainties and unrest in the present day market? Could this be as a result of the globalisation of markets, or as a result of the growing liberalisation of economies? Apparently, these economic conditions to a larger extent as supported by  (Nenni et., al. 2013), have culminated in the growing competitiveness and volatility in the modern market hence, have  heightened the need for organisations to engage in supply chain process evaluations and advancement through efficient and effective supply chain processes for superior business performance. This supports Harland (1996) research that agrees that supply chain incorporates many angles, which requires lucid concepts for proper understanding.

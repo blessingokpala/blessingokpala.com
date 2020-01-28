@@ -7,18 +7,13 @@ permalink: /about/
 ![Blessing Okpala](/img/me.jpg)
 
 Hi,
-My name is Blessing, I am a PhD candidate at the Cardiff Metropolitan University.  My research is focused on understanding the demand patterns and dimensions in supply chain using UK based companies as case studies.
+My name is Blessing, I am a PhD graduate in Business and Management from the Cardiff Metropolitan University. My thesis focused on the operational performance of the UK retail industry: A statistical analysis of operational key performance indicators and their impact on profitability. This study bridged the gap in the field of performance measurement as well as contributed "something new" to the entire body of knowledge.
 
-Due to the varying customer demands and the volatility in the market,
-retail stakeholders are faced with the difficulty of determining customer’s
-needs at any particular point in time for maximum satisfaction and
-of course, profit!
+I also hold a Master’s degree in Business Administration (MBA) and a B.Sc degree in Parasitology & Entomology. My personality, education and experience have enabled me to take on the challenges that life can present.
 
-To a larger extent, the economic state has intensified the need for companies to indulge in supply chain process evaluation and improvements through efficient and effective planning for superior business performance. I will be analysing some current practices, key indicators, market activities, institutional arrangements to identify pathways to change, for accurate demand forecasts in supply chain.
+I am quite passionate and always optimistic to accept responsibilities as they present themselves at every stage in life so as to ever remain on top of my game. My ever burning desire to remain successful in life has remained my watch word,  hence my pragmatic approach to occurrences  and situations around me. 
 
-I hold a Master’s degree in Business Administration (MBA) and a B.Sc degree in Parasitology & Entomology. My personality, education and experience has enabled me to take on the challenges that life can present.
-
-I am quite passionate and always optimistic to accept responsibilities as they present themselves at every stage in life so as to ever remain on top of my game. My ever burning desire to remain successful in life has remained my watch word,  hence my pragmatic approach to occurrences  and situations around me.
+I am a positive-thinker and a result-oriented individual who is constantly seeking ways to proffer solutions to real world problems. My interest also focuses on Information Technology, Statistical analysis, Business development and Management. 
 
 In my strive for fulfillment, I have embarked on some projects however, the latest project I am working on now is on my food blog website [globalfoodbook.com](http://globalfoodbook.com) where I share my cooking tips and blog about human health and food.
 

@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Blessing Okpala](/img/me.jpg)
 
-Hi,
+<p>Hi,</p>
 My name is Blessing, I am a PhD graduate in Business and Management from the Cardiff Metropolitan University. My thesis focused on the operational performance of the UK retail industry: A statistical analysis of operational key performance indicators and their impact on profitability. This study bridged the gap in the field of performance measurement as well as contributed "something new" to the entire body of knowledge.
 
 I also hold a Master’s degree in Business Administration (MBA) and a B.Sc degree in Parasitology & Entomology. My personality, education and experience have enabled me to take on the challenges that life can present.
